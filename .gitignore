@@ -1,0 +1,13 @@
+# 이미 golden_time_project/data/raw/ 안에 정리된 CSV로 들어가 있는 원본 다운로드(중복이라 제외)
+2026*_데이터랩_다운로드/
+2026*_데이터랩_다운로드.zip
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
