@@ -1,9 +1,6 @@
 pandas
 numpy
-matplotlib
-requests
-beautifulsoup4
-wordcloud
-holidays
-python-dotenv
-pytest
+scikit-learn
+openpyxl
+chronos-forecasting
+torch
