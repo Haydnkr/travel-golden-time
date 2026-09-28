@@ -64,8 +64,6 @@
 ```
 travel-golden-time/
 ├── README.md                              ← 이 파일
-├── 골든타임_프로젝트_최종정리.md            ← 전체 분석 결과 상세본
-├── 골든타임_프로젝트_쉬운설명.md            ← 통계 용어 없이 풀어쓴 버전
 ├── 영화관광_학습용_추가_완성본.xlsx         ← 원본 데이터
 └── golden_time_project/
     ├── golden_time_calculator.py           ← ① 규칙기반 골든타임 계산기
